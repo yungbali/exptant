@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamoc030d57d",
+  "tableName": "todoTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

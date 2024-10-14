@@ -1,0 +1,36 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-exptharmony-dev-398ae-authRole",
+      "UnauthRoleArn": "arn:aws:iam::683481185913:role/amplify-exptharmony-dev-398ae-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::683481185913:role/amplify-exptharmony-dev-398ae-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-exptharmony-dev-398ae-deployment",
+      "UnauthRoleName": "amplify-exptharmony-dev-398ae-unauthRole",
+      "StackName": "amplify-exptharmony-dev-398ae",
+      "StackId": "arn:aws:cloudformation:us-east-1:683481185913:stack/amplify-exptharmony-dev-398ae/438f2cc0-8a2e-11ef-87d8-1209761c2c97",
+      "AmplifyAppId": "d1t5suefbmp5if"
+    },
+    "categories": {
+      "auth": {
+        "exptharmonyb57c197f": {}
+      },
+      "function": {
+        "processWaitlist": {
+          "deploymentBucketName": "amplify-exptharmony-dev-398ae-deployment",
+          "s3Key": "amplify-builds/processWaitlist-6465664c516530356357-build.zip"
+        }
+      },
+      "api": {
+        "exptharmony": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      },
+      "storage": {
+        "dynamoa866a816": {},
+        "dynamoc030d57d": {}
+      }
+    }
+  }
+}
